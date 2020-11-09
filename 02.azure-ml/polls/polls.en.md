@@ -17,11 +17,11 @@
 - [ ] I've played with sometimes
 - [ ] I'm a Jupyter hero
 
-### Have you ever made forecast analysys? Answer with 👍
+### Have you ever made forecast analysis? Answer with 👍
 
 - [ ] Never done before in my life
 - [ ] I only have read about it
-- [ ] I did with Statistic / Machine learning
+- [ ] I did with Statistics / Machine learning
 
 ## Azure Machine Learning Studio (Preview)
 
