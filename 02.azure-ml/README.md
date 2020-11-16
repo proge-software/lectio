@@ -21,8 +21,8 @@ We talk about Machine Learning on Azure and forecast analysis with python and ju
      - Unsupervised Learning
    - Preprocessing data
    - Forecast Analysis
-     - Prophet
      - ARIMA: Autoregressive integrated moving average
+     - Prophet
 3. [Azure Machine Learning Studio (Preview)](03.azure-machine-learning-studio-(preview).md)  :clock1: **(01:00)**
    - What is Azure ML Studio (Preview)
      - Differences with Classic version of the platform
