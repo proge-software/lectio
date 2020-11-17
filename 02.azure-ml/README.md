@@ -5,8 +5,8 @@ We talk about Machine Learning on Azure and forecast analysis with python and ju
 ## Agenda
 
 1. [Presentation](01.presentation.md) :clock9: **(09:00)**
-   - Who Am I
    - Who Is Proge-Software
+   - Who Am I
 2. [Introduction](02.introduction.md) **(09:15)**
    - Python
      - Pandas
