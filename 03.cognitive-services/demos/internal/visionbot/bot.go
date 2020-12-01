@@ -1,10 +1,10 @@
 package visionbot
 
 import (
-	"github.com/proge-software/lectio-csml-csbot/pkg/tglog"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssface"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssformrecognizer"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssvision"
+	"github.com/proge-software/lectio/pkg/tglog"
+	"github.com/proge-software/lectio/pkg/wssface"
+	"github.com/proge-software/lectio/pkg/wssformrecognizer"
+	"github.com/proge-software/lectio/pkg/wssvision"
 	tb "gopkg.in/tucnak/telebot.v2"
 )
 

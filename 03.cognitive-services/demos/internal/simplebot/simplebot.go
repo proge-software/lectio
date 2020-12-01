@@ -3,8 +3,8 @@ package simplebot
 import (
 	"log"
 
-	"github.com/proge-software/lectio-csml-csbot/internal/tgconf"
-	"github.com/proge-software/lectio-csml-csbot/pkg/tglog"
+	"github.com/proge-software/lectio/internal/tgconf"
+	"github.com/proge-software/lectio/pkg/tglog"
 	tb "gopkg.in/tucnak/telebot.v2"
 )
 

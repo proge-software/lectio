@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/proge-software/lectio-csml-csbot/internal/tgconf"
-	bot "github.com/proge-software/lectio-csml-csbot/internal/visionbot"
-	"github.com/proge-software/lectio-csml-csbot/pkg/envext"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssface"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssformrecognizer"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssvision"
+	"github.com/proge-software/lectio/internal/tgconf"
+	bot "github.com/proge-software/lectio/internal/visionbot"
+	"github.com/proge-software/lectio/pkg/envext"
+	"github.com/proge-software/lectio/pkg/wssface"
+	"github.com/proge-software/lectio/pkg/wssformrecognizer"
+	"github.com/proge-software/lectio/pkg/wssvision"
 )
 
 // AppEnvKey Environment variable key where is stored the environment to use for the app

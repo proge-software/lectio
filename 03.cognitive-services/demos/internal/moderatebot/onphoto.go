@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssface"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssmoderator"
+	"github.com/proge-software/lectio/pkg/wssface"
+	"github.com/proge-software/lectio/pkg/wssmoderator"
 	tb "gopkg.in/tucnak/telebot.v2"
 )
 

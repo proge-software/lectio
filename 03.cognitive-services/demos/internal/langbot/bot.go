@@ -1,13 +1,13 @@
 package langbot
 
 import (
-	"github.com/proge-software/lectio-csml-csbot/pkg/tglog"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssface"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssformrecognizer"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssmoderator"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wsssentiment"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wsstranslator"
-	"github.com/proge-software/lectio-csml-csbot/pkg/wssvision"
+	"github.com/proge-software/lectio/pkg/tglog"
+	"github.com/proge-software/lectio/pkg/wssface"
+	"github.com/proge-software/lectio/pkg/wssformrecognizer"
+	"github.com/proge-software/lectio/pkg/wssmoderator"
+	"github.com/proge-software/lectio/pkg/wsssentiment"
+	"github.com/proge-software/lectio/pkg/wsstranslator"
+	"github.com/proge-software/lectio/pkg/wssvision"
 	tb "gopkg.in/tucnak/telebot.v2"
 )
 

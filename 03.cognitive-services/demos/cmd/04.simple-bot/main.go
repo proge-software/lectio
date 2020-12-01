@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	bot "github.com/proge-software/lectio-csml-csbot/internal/simplebot"
-	"github.com/proge-software/lectio-csml-csbot/pkg/envext"
+	bot "github.com/proge-software/lectio/internal/simplebot"
+	"github.com/proge-software/lectio/pkg/envext"
 )
 
 // AppEnvKey Environment variable key where is stored the environment to use for the app
@@ -16,6 +16,7 @@ func main() {
 
 	envext.LoadDotenvs(AppEnvKey) // load the env vars from .env file
 
+	// alternative: https://github.com/kelseyhightower/envconfig
 	fbot, err := bot.NewFromEnv()
 	if err != nil {
 		log.Fatalf("can not instantiate bot: %v", err)

@@ -6,7 +6,7 @@ FROM golang:1.14.1-buster as builder
 # Ensure ca-certficates are up to date
 RUN update-ca-certificates
 
-WORKDIR $GOPATH/src/github.com/proge-software/lectio-csml-csbot
+WORKDIR $GOPATH/src/github.com/proge-software/lectio
 
 # use modules
 COPY go.mod .

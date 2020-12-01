@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/proge-software/lectio-csml-csbot/pkg/wsssentiment"
+	"github.com/proge-software/lectio/pkg/wsssentiment"
 	tb "gopkg.in/tucnak/telebot.v2"
 )
 

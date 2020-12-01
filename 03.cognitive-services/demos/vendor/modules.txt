@@ -34,4 +34,4 @@ github.com/satori/go.uuid
 # gopkg.in/tucnak/telebot.v2 v2.0.0-20200426184946-59629fe0483e
 ## explicit
 gopkg.in/tucnak/telebot.v2
-# github.com/proge-software/lectio-csml-csbot => ./
+# github.com/proge-software/lectio => ./

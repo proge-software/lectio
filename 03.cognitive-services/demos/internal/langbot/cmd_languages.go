@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/proge-software/lectio-csml-csbot/pkg/wsstranslator"
+	"github.com/proge-software/lectio/pkg/wsstranslator"
 	tb "gopkg.in/tucnak/telebot.v2"
 )
 

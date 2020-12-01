@@ -1,8 +1,8 @@
-module github.com/proge-software/lectio-csml-csbot
+module github.com/proge-software/lectio
 
 go 1.14
 
-replace github.com/proge-software/lectio-csml-csbot => ./
+replace github.com/proge-software/lectio => ./
 
 require (
 	github.com/Azure/azure-sdk-for-go v42.1.0+incompatible
